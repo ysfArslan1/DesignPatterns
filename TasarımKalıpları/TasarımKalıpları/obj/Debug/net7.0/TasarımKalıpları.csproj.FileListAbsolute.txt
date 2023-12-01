@@ -1,0 +1,14 @@
+D:\codlamalar\c#\TasarımKalıpları\TasarımKalıpları\obj\Debug\net7.0\TasarımKalıpları.GeneratedMSBuildEditorConfig.editorconfig
+D:\codlamalar\c#\TasarımKalıpları\TasarımKalıpları\obj\Debug\net7.0\TasarımKalıpları.AssemblyInfoInputs.cache
+D:\codlamalar\c#\TasarımKalıpları\TasarımKalıpları\obj\Debug\net7.0\TasarımKalıpları.AssemblyInfo.cs
+D:\codlamalar\c#\TasarımKalıpları\TasarımKalıpları\obj\Debug\net7.0\TasarımKalıpları.csproj.CoreCompileInputs.cache
+D:\codlamalar\c#\TasarımKalıpları\TasarımKalıpları\bin\Debug\net7.0\TasarımKalıpları.exe
+D:\codlamalar\c#\TasarımKalıpları\TasarımKalıpları\bin\Debug\net7.0\TasarımKalıpları.deps.json
+D:\codlamalar\c#\TasarımKalıpları\TasarımKalıpları\bin\Debug\net7.0\TasarımKalıpları.runtimeconfig.json
+D:\codlamalar\c#\TasarımKalıpları\TasarımKalıpları\bin\Debug\net7.0\TasarımKalıpları.dll
+D:\codlamalar\c#\TasarımKalıpları\TasarımKalıpları\bin\Debug\net7.0\TasarımKalıpları.pdb
+D:\codlamalar\c#\TasarımKalıpları\TasarımKalıpları\obj\Debug\net7.0\TasarımKalıpları.dll
+D:\codlamalar\c#\TasarımKalıpları\TasarımKalıpları\obj\Debug\net7.0\refint\TasarımKalıpları.dll
+D:\codlamalar\c#\TasarımKalıpları\TasarımKalıpları\obj\Debug\net7.0\TasarımKalıpları.pdb
+D:\codlamalar\c#\TasarımKalıpları\TasarımKalıpları\obj\Debug\net7.0\TasarımKalıpları.genruntimeconfig.cache
+D:\codlamalar\c#\TasarımKalıpları\TasarımKalıpları\obj\Debug\net7.0\ref\TasarımKalıpları.dll
