@@ -1,6 +1,5 @@
-
-
-namespace TASARIMKALIPLARI.BuilderPattern.Builder2{
+namespace BuilderPattern.Builder2
+{
     public class EmployeOrderBuilder2 : OrderBuilder2
     {
         public override void SetOrderAddress(string text)
@@ -11,7 +10,7 @@ namespace TASARIMKALIPLARI.BuilderPattern.Builder2{
         public override void SetOrderEmail(string text)
         {
             var _email = text.Split("@");
-            order.email = _email[0]+"@company.com.tr";
+            order.email = _email[0] + "@company.com.tr";
         }
 
         public override void SetOrderPhone(string text)
@@ -26,7 +25,7 @@ namespace TASARIMKALIPLARI.BuilderPattern.Builder2{
 
         public override void SetOrderUserName(string text)
         {
-            order.userName = text+" Best Employe";
+            order.userName = text + " Best Employe";
         }
     }
 }

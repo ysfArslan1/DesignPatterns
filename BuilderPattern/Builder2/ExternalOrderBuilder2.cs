@@ -1,5 +1,5 @@
-
-namespace TASARIMKALIPLARI.BuilderPattern.Builder2{
+namespace BuilderPattern.Builder2
+{
     public class ExternalOrderBuilder2 : OrderBuilder2
     {
         public override void SetOrderAddress(string text)
